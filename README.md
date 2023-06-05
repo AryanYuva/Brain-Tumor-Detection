@@ -103,7 +103,7 @@ Hence, the predicted output identifies the tumor and non-tumor brain MRI images.
 
 ## Conclusion and Future Scope
 
-The created model achieves an accuracy of 97.79% when applied to the training set and an accuracy of upto 85.19% when applied to the validation set. It is observed on extermination that the proposed approach needs a vast training set for better accurate results. In future, different datasets would be applied to this model, to further increase the overall accuracy. The proposed approach can be further improvised through in cooperating weakly trained algorithms that can identify the abnormalities with a minimum training data and also self-learning algorithms would aid in enhancing the accuracy of the algorithm and reduce the computational tim
+The created model achieves an accuracy of 97.79% when applied to the training set and an accuracy of upto 85.19% when applied to the validation set. It is observed on extermination that the proposed approach needs a vast training set for better accurate results. In future, different datasets would be applied to this model, to further increase the overall accuracy. The proposed approach can be further improvised through in cooperating weakly trained algorithms that can identify the abnormalities with a minimum training data and also self-learning algorithms would aid in enhancing the accuracy of the algorithm and reduce the computational time.
 
 ## Team Members
 
